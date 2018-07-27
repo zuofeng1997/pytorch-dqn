@@ -6,10 +6,11 @@ visdom\
 gym
 
 ## trainning plot
-cartpole
-!(https://github.com/zuofeng1997/pytorch-dqn/plots/cartpole.png)
+cartpole\
+![](https://github.com/zuofeng1997/pytorch-dqn/plots/cartpole.png)
 
 breakout
+![](https://github.com/zuofeng1997/pytorch-dqn/plots/breakout.png)
 
 ## how to run 
 python -m zuofengRL.deepq.run_atari\
