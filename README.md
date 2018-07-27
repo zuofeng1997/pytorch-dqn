@@ -9,7 +9,7 @@ gym
 cartpole\
 ![](https://github.com/zuofeng1997/pytorch-dqn/plots/cartpole.png)
 
-breakout
+breakout\
 ![](https://github.com/zuofeng1997/pytorch-dqn/plots/breakout.png)
 
 ## how to run 
