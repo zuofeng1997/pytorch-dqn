@@ -7,11 +7,9 @@ gym
 
 ## trainning plot
 cartpole\
-![](https://github.com/zuofeng1997/pytorch-dqn/blob/master/plots/cartpole.png)
-
+<img src="https://github.com/zuofeng1997/pytorch-dqn/blob/master/plots/cartpole.png" width="300" height="300" alt="图片加载失败时"/>
 breakout\
-![](https://github.com/zuofeng1997/pytorch-dqn/blob/master/plots/breakout.png)
-
+<img src="https://github.com/zuofeng1997/pytorch-dqn/blob/master/plots/breakout.png" width="300" height="300" alt="图片加载失败时"/>
 ## how to run 
 python -m zuofengRL.deepq.run_atari\
 python -m zuofengRL.deepq.train_cartpole
